@@ -1,1 +1,5 @@
-Userscript To Download Tables And Lists As Markdown.
+Simple GM Userscript To Download Tables And Lists As Markdown.
+Works on mobile browsers too. Tested with Stay on Safari iOS.
+
+Known Issues:  
+- Cannot extract tables or lists from iFrames (due to security restrictions).
